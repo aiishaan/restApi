@@ -64,6 +64,3 @@ Use tools like Postman or cURL to interact with the API.
 Course data is validated using `Joi`:
 - **Name:** Must be a string, at least 3 characters long, and required.
 
-## License
-
-This project is licensed under the MIT License.
