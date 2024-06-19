@@ -35,7 +35,7 @@ Use tools like Postman or cURL to interact with the API.
 - **Get All Courses**
     - **URL:** `/api/courses`
     - **Method:** `GET`
-    - **Response:** List of all courses
+    - **Response:** List of all courses.
 
 - **Get Course by ID**
     - **URL:** `/api/courses/:id`
