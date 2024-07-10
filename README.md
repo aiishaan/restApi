@@ -24,7 +24,7 @@ A simple REST API built with Node.js and Express.js to manage a list of courses.
     npm start
     ```
 
-By default, the server runs on port 3000. Change the port by setting the `PORT` environment variable.
+By default, the server runs on port 3000. Change the port by setting the `PORT` environment variable
 
 ## Usage
 
