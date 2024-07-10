@@ -1,6 +1,6 @@
 # Rest API
 
-A simple REST API built with Node.js and Express.js to manage a list of courses.
+A simple REST API built with Node.js and Express.js to manage a list of courses
 
 ## Installation
 
