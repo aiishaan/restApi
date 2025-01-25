@@ -28,7 +28,7 @@ By default, the server runs on port 3000. Change the port by setting the `PORT` 
 
 ## Usage
 
-Use tools like Postman or cURL to interact with the API.
+Use tools like Postman or cURL to interact with the API
 
 ### Endpoints
 
